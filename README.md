@@ -49,3 +49,4 @@ For each query, print the number of chocolates that have both sweetness greater 
 **Sample Output:**
 0 2 5 2 2
 
+![Alt text](output.png?raw=true "Output")
